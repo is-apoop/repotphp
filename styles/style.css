@@ -1,0 +1,75 @@
+.week_report ul { 
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.week_report ul li { display: inline; }
+
+.clear{
+    clear: both;
+}
+
+.login
+{
+	margin: 0 auto;
+}
+
+#sidebar {
+	display:inline-block;
+	margin-right:40px;
+	margin-top: 20px;
+	position: relative;
+	height: 100%;
+    float:left;
+} 
+
+#content {
+	display:inline-block;
+	margin-top: 20px;
+} 
+
+#body ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#content li{
+	display: inline;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+
+#container {
+     margin: 0 auto;
+     text-align: left;
+}
+
+#login {
+  margin: 50px auto;
+  width: 640px;
+}
+ 
+#form_login {
+  position: relative;
+  margin: 0 auto;
+  padding: 20px 20px 20px;
+  width: 310px;
+}
+
+a.name:link 
+{
+	color: #000000;
+	text-decoration: none;
+}
+a.name:hover {background:#B0B0B0;}
+
+a.topmenuitem:link 
+{
+	color: #000000;
+	text-decoration: none;
+}
+a.topmenuitem:hover {background:#B0B0B0;}
